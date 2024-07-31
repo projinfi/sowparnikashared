@@ -348,12 +348,16 @@
 
     });
 
+	jQuery(window).load(function(){
+			// Loading Spinner
+			setTimeout(function() {
+				$('.spinner-wrpr').fadeOut();
+			}, ); // Delay for 1 second
+	})
+
 	jQuery(window).load(function() {
 
-		// Loading Spinner
-		setTimeout(function() {
-			$('.spinner-wrpr').fadeOut();
-		}, 0.5); // Delay for 1 second
+	
 	
 		// Isotope Portfolio Item 
 		$('.portfolio-item-list').isotope({
