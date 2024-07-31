@@ -353,7 +353,7 @@
 		// Loading Spinner
 		setTimeout(function() {
 			$('.spinner-wrpr').fadeOut();
-		}, 1000); // Delay for 1 second
+		}, 0.5); // Delay for 1 second
 	
 		// Isotope Portfolio Item 
 		$('.portfolio-item-list').isotope({
