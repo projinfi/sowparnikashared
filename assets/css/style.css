@@ -6259,21 +6259,21 @@ font-size: 14px;
     }
     
     #hero-section-three .hero-slider-item.bg-two {
-        background-image: url("../img/hero-slider/8.jpg");
+        background-image: url("../img/hero-slider/edifice-mobile.png");
         
     }
     
     #hero-section-three .hero-slider-item.bg-three {
-        background-image: url("../img/hero-slider/capital-mobile.jpg");
+        background-image: url("../img/hero-slider/cc-mobile.png");
     }
     
     #hero-section-three .hero-slider-item.bg-four {
-        background-image: url("../img/hero-slider/10.jpg");
+        background-image: url("../img/hero-slider/elania-mobile.png");
     }
     
     
     #hero-section-three .hero-slider-item.bg-five {
-        background-image: url("../img/hero-slider/11.jpg");
+        background-image: url("../img/hero-slider/west-mobile.png");
     }
 }
 
