@@ -1529,3 +1529,9 @@
 		display: none;
     }
 }
+@media screen and (max-width:500px) and (min-width:0px) {
+	#contact-section {
+	    padding: 60px 0;
+		margin-top: -50px;
+	}
+}

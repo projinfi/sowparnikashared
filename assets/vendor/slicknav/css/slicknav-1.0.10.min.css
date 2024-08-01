@@ -158,7 +158,10 @@
 
 .slicknav_nav a {
     text-decoration: none;
-    color: #000000
+    color: #000000;
+    font-size: 20px;
+    padding: 12px;
+    
 }
 
 .slicknav_nav a:hover {
