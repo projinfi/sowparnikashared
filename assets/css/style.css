@@ -6100,7 +6100,8 @@ a:hover {
     background-color: #007BB5;
     width: 100%;
     height: 100%;
-    background-color: rgb(241 241 241);
+    /* background-color: rgb(241 241 241); */
+    background-color: rgb(233 247 247);
     gap: 4px;
 }
 .projdes-des{
