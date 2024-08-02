@@ -1535,3 +1535,14 @@
 		margin-top: -50px;
 	}
 }
+
+@media only screen and (max-width: 767px) {
+    .header-three .slicknav_nav .slicknav_arrow:hover {
+        background: #ed1c24;
+        color: #ffffff;
+    }
+	.header-three .slicknav_nav .slicknav_item:hover {
+        background: #ed1c24;
+        color: #ffffff;
+    }
+}
