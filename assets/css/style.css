@@ -6379,5 +6379,6 @@ font-size: 14px;
 @media screen and (max-width:500px) and (min-width:0px) {
     .prosliimg{
         height: 250px;
+       object-fit: cover;
         }
 }
