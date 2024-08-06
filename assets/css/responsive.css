@@ -411,7 +411,7 @@
 	    margin-bottom: 15px;
 	}
 	.small-primary {
-	    font-size: 20px;
+	    font-size: 18px;
 	    margin-bottom: 10px;
 	}
 	.section-header {
@@ -1546,3 +1546,10 @@
         color: #ffffff;
     }
 }
+@media only screen and (max-width: 500px) {
+	.small-primary {
+		font-size: 16px;
+		margin-bottom: 10px;
+	}
+}
+
