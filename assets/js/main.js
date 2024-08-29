@@ -323,7 +323,7 @@
 				name: 'Enter your full name.',
 				phone: 'Enter your phone number.',
 				email: 'Enter a valid email.',
-				subject: 'Enter your subject.',
+				subject: 'Enter your city',
 				message: 'Write your message.',
 			},
 			submitHandler: function(form) {
